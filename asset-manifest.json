@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trendCrn/static/css/main.293a8b86.chunk.css",
+    "main.js": "/trendCrn/static/js/main.4ea74f63.chunk.js",
+    "main.js.map": "/trendCrn/static/js/main.4ea74f63.chunk.js.map",
+    "runtime-main.js": "/trendCrn/static/js/runtime-main.097aee9d.js",
+    "runtime-main.js.map": "/trendCrn/static/js/runtime-main.097aee9d.js.map",
+    "static/css/2.f8e83cc6.chunk.css": "/trendCrn/static/css/2.f8e83cc6.chunk.css",
+    "static/js/2.527c8cc7.chunk.js": "/trendCrn/static/js/2.527c8cc7.chunk.js",
+    "static/js/2.527c8cc7.chunk.js.map": "/trendCrn/static/js/2.527c8cc7.chunk.js.map",
+    "index.html": "/trendCrn/index.html",
+    "precache-manifest.54d377859e85fe8a40199450982a761d.js": "/trendCrn/precache-manifest.54d377859e85fe8a40199450982a761d.js",
+    "service-worker.js": "/trendCrn/service-worker.js",
+    "static/css/2.f8e83cc6.chunk.css.map": "/trendCrn/static/css/2.f8e83cc6.chunk.css.map",
+    "static/css/main.293a8b86.chunk.css.map": "/trendCrn/static/css/main.293a8b86.chunk.css.map",
+    "static/js/2.527c8cc7.chunk.js.LICENSE.txt": "/trendCrn/static/js/2.527c8cc7.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/trendCrn/static/media/logo.47bf9c59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.097aee9d.js",
+    "static/css/2.f8e83cc6.chunk.css",
+    "static/js/2.527c8cc7.chunk.js",
+    "static/css/main.293a8b86.chunk.css",
+    "static/js/main.4ea74f63.chunk.js"
+  ]
+}

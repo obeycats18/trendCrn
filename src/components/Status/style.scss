@@ -1,0 +1,11 @@
+.status {
+	display: flex;
+	min-width: 200px;
+	height: 100%;
+	background-color: #f5f5f5;
+	cursor: pointer;
+	margin-right: 2px;
+}
+.status.active {
+	background-color: #fff;
+}
